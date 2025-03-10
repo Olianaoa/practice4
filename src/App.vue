@@ -66,6 +66,7 @@ function game_status(game_status) {
 </script>
 
 <template>
+  <p>djfgidfhbkjfbkfb</p>
   <div class="buttons">
     <button @click="local_data.you_here = 1" :disabled="local_data.game_status"
       :class="{ you_here: local_data.you_here === 1 }">Настройки</button>

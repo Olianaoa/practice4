@@ -32,7 +32,9 @@ const local = reactive({
                 </template>
             </div>
         </div>
-
+        <!-- влоарпавпровамиволамт
+         ывмоавоиолитлоястияса
+         очвмсилчяостмлчстм -->
         <div class="settings">
             <!--Сложность -->
             <fieldset>
